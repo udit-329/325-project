@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "id": "LISC-426",
+            "department": "LISC",
+            "courseCode": "426",
+            "courseName": "Current Concepts in Sensorimotor Neuroscience",
+            "units": 3,
+            "courseYear": 4,
+            "totalCapacity": 36,
+            "remainingCapacity": 27,
+            "instructor": "Pare,Martin",
+            "term": "2022W",
+            "sections":[
+                {
+                    "meetingInformation": [
+                        {
+                            "days": ["Mo"],
+                            "times": ["1430-1730"],
+                            "room": ["JEFFERY RM118"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "LISC-471",
+            "department": "LISC",
+            "courseCode": "471",
+            "courseName": "Advanced Global and Population Health",
+            "units": 3,
+            "courseYear": 4,
+            "totalCapacity": 120,
+            "remainingCapacity": 41,
+            "instructor": "Carpenter,Jennifer L",
+            "term": "2022W",
+            "sections":[
+                {
+                    "meetingInformation": [
+                        {
+                            "days": ["TBA"],
+                            "times": ["TBA"],
+                            "room": ["TBA"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "LISC-391",
+            "department": "LISC",
+            "courseCode": "391",
+            "courseName": "Integrated Life Sciences Laboratory",
+            "units": 3,
+            "courseYear": 3,
+            "totalCapacity": 80,
+            "remainingCapacity": 2,
+            "instructor": "Pruss,Cynthia,Lomax,Alan E G",
+            "term": "2022W",
+            "sections":[
+                {
+                    "meetingInformation": [
+                        {
+                            "days": ["Th"],
+                            "times": ["1430-1730"],
+                            "room": ["MEDS RM401A - Pharmacoloy & Ph"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "HIST-110",
+            "department": "HIST",
+            "courseCode": "110",
+            "courseName": "Europe from Antiquity to the Scientific Revolution",
+            "units": 3,
+            "courseYear": 1,
+            "totalCapacity": 175,
+            "remainingCapacity": 11,
+            "instructor": "Collins,Jeffrey",
+            "term": "2022W",
+            "sections":[
+                {
+                    "meetingInformation": [
+                        {
+                            "days": ["Tu", "Th"],
+                            "times": ["1630-1730", "1530-1630"],
+                            "room": ["WALTER LIGHT RM205", "WALTER LIGHT RM205"]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": "HIST-216",
+            "department": "HIST",
+            "courseCode": "216",
+            "courseName": "Us Civil War & Reconstruction",
+            "units": 3,
+            "courseYear": 2,
+            "totalCapacity": 168,
+            "remainingCapacity": 22,
+            "instructor": "Currarino,Rosanne",
+            "term": "2022W",
+            "sections":[
+                {
+                    "meetingInformation": [
+                        {
+                            "days": ["We", "Fr"],
+                            "times": ["1300-1430", "1130-1300"],
+                            "room": ["KINES & HLTH RM100", "KINES & HLTH RM100"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
